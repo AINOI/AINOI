@@ -1,9 +1,8 @@
 <h1 align="center">Hi,this is Aino</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 📫 How to reach me **aino30274@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:**aino30274@gmail.com**</h3>
 <p align="left">
 </p>
 
